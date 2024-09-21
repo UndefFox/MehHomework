@@ -1,6 +1,0 @@
-linters: linters_with_defaults(
-    semicolon_linter(allow_compound = FALSE, allow_trailing = TRUE),
-    indentation_linter = NULL,
-    trailing_whitespace_linter = NULL
-    )
-
